@@ -17,3 +17,8 @@ open Zoom.alfredworkflow
 ```
 zm
 ```
+
+
+## TODO
+
+It may or may not be hard coded to 'Free account' need to fix for non free accounts
